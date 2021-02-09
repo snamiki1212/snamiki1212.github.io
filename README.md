@@ -1,7 +1,13 @@
 # snamiki1212.github.io
 
-[v1](https://github.com/snamiki1212/v1.snamiki1212.github.io)/ v2(latest)
+Redirect to my portfolio page.
 
-## Redirecto to latest my portfolio
+## v2 (latest)
 
-- REF: [Redirecting GitHub pages after a repository move · GitHub](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
+- [GitHub](https://github.com/snamiki1212/v2)
+- [Site](https://snamiki1212.github.io/v2)
+
+## v1
+
+- [GitHub](https://github.com/snamiki1212/v1)
+- [Site](https://snamiki1212.github.io/v1)
