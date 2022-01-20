@@ -12,7 +12,7 @@ Used Notion Page feature
 
 - [Site](https://snamiki1212.notion.site/AboutMe-bcbf1b16e6d045dbaa4f9ad1d4b2bc33)
 
-#### v2 (latest)
+#### v2
 
 Developed by myself
 
