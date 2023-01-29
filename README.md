@@ -23,6 +23,7 @@ flowchart
 Used Notion Page feature
 
 - [Site](https://snamiki1212.notion.site/AboutMe-bcbf1b16e6d045dbaa4f9ad1d4b2bc33)
+- [Site:JA](https://snamiki1212.notion.site/Resume-db02ccdc211b4295b758bcac253077eb)
 - No GitHub
 
 ### v2
